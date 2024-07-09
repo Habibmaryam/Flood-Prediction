@@ -1,4 +1,4 @@
-# FloodP rediction
+# Flood prediction
 
 ---
 ### 1.0 Introduction
